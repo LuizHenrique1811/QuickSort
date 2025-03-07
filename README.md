@@ -10,7 +10,7 @@
 <ul>
   <li>It's faster in large arrays</li>
   <li>In-place - It requires little memory usage</li>
-  <li>It has a medium complexity space equals a O(n log n)</li>
+  <li>It has a medium complexity space of O(n log n)</li>
 
 </ul>
 <h3>Disadvantage</h3>
@@ -19,9 +19,9 @@
     <li>It may has a bad execution time when the array is partialy sorted</li>
     <li>It's not stable</li>
 </ul>
-<h3>Comparation Execution Time</h3>
+<h3>Comparson of Execution Time</h3>
 <p>
-    &nbsp; The QuickSort algorithm has a time complexity equals a O(n log n) in the average case, but in the worst case it has a time complexity equals a O(n^2).
+    &nbsp; The QuickSort algorithm has a time complexity of O(n log n) in the average case, but in the worst case it has a time complexity equals a O(n^2).
     <br>
 </p>
 <img src="https://github.com/user-attachments/assets/b43aded7-8593-463e-b54f-cdd5b286bbe1" alt="Comparation Execution Time" />
